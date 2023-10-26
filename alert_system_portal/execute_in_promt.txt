@@ -1,0 +1,7 @@
+/home/ismart/Software/miniconda3/envs/pytroll/bin/python /home/ismart/goesrdatajam/abi_fdc.py
+/home/ismart/Software/miniconda3/envs/pytroll/bin/python /home/ismart/goesrdatajam/abi_adpS.py
+/home/ismart/Software/miniconda3/envs/pytroll/bin/python /home/ismart/goesrdatajam/abi_fdc.py
+/home/ismart/Software/miniconda3/envs/pytroll/bin/python /home/ismart/goesrdatajam/abi_rrqpef.py
+
+/home/ismart/Software/miniconda3/envs/gee/bin/python /home/ismart/goesrdatajam/get_ee.py
+
