@@ -40,22 +40,23 @@ cd GOES-R-Weather-Hazards
 Experience our project in action! The website is hosted [here](https://goesrdatajam-jhbravo-75c8d7b383790ae46e8db7565f805873f3cde0674c.gitlab.io/).
 
 ## Contributors
-Team members
-Mohamed Abdelkader, Stevens Institute of Technology, USA
-Daniela Montano Bello, National University of Colombia, Colombia 
-Jorge Bravo, Stevens Institute of Technology, USA
-Maria Moreno, National University of Colombia, Colombia 
-Jessica Souza, Texas Tech University, USA
-Matsane Willem, University of Limpopo, South Africa
+Team members: 
+- Mohamed Abdelkader, Stevens Institute of Technology, USA
+- Daniela Montano Bello, National University of Colombia, Colombia 
+- Jorge Bravo, Stevens Institute of Technology, USA
+- Maria Moreno, National University of Colombia, Colombia 
+- Jessica Souza, Texas Tech University, USA
+- Matsane Willem, University of Limpopo, South Africa
 
-Mentors
-Peter Vanden Bosch, National Weather Service Office, Texas, USA
-Tristan Klintworth, Office of Observations at the National Weather Service, Maryland, USA 
-![image](https://github.com/MAbdelkader94/GOES-R-Weather-Hazards/assets/86872229/d3569c9c-2904-4e92-a905-2ef5e2c65d14)
+Mentors:
+- Peter Vanden Bosch, National Weather Service Office, Texas, USA
+- Tristan Klintworth, Office of Observations at the National Weather Service, Maryland, USA 
+
 
 ## Acknowledgements
 We'd like to thank the organizers of the GOES-R DataJam competition for providing us with this opportunity and the community for their continuous support.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ![image](https://github.com/MAbdelkader94/GOES-R-Weather-Hazards/assets/86872229/f79e1ea0-f54f-4972-abd5-45dcdd6e1f28)
